@@ -1,7 +1,7 @@
 [tauqeerm46-profile-README.md](https://github.com/user-attachments/files/29272822/tauqeerm46-profile-README.md)
 # Hi, I'm Tauqeer Mohammed 👋
 
-I'm a Cybersecurity graduate from Northeastern Illinois University (GPA 4.0) based in the Chicago area. I have hands-on experience in IT support from NEIU's Help Desk and technical support at T-Mobile, and I've built a portfolio of practical security projects covering penetration testing, digital forensics, and SOC analysis.
+I'm a Cybersecurity graduate based in the Chicago area. I have hands-on experience in IT support in Help Desk and I've built a portfolio of practical security projects covering penetration testing, digital forensics, and SOC analysis.
 
 I'm actively pursuing my CompTIA Security+ and looking for entry-level roles in cybersecurity or IT.
 
